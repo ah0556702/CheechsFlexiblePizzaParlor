@@ -1,0 +1,65 @@
+/*
+ Assignment: Cheech's Flexible Pizza Parlor
+ Responsive CSS for Cheech's Flexible Pizza Parlor
+ Author: Audrey Harmon
+ Date:   July 11, 2022
+
+ Filename: responsiveStyle.css
+*/
+
+@media screen and (max-width: 568px) {
+
+  .header_logo img {
+    width: 100%;
+  }
+
+  .menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu li {
+    display: flex;
+  }
+
+  .pizza_menu {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+  }
+
+  .pizza_menu img {
+    display: flex;
+  }
+
+  .top_row{
+    display: block;
+  }
+
+  .bottom_row {
+    display: block;
+  }
+
+  .order_content {
+    flex-direction: column;
+  }
+
+  .testimonial {
+    height: 350px;
+    width: 75%;
+    margin-left: 65px;
+  }
+
+  .form {
+    padding-right: 10px;
+    width: 80%;
+  }
+
+  .social_media {
+    margin-left: 40px;
+  }
+}
