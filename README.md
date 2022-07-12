@@ -1,2 +1,2 @@
-"# CheechsFlexible Pizza Parlor" 
-"# CheechsFlexiblePizzaParlor" 
+# Cheech's Flexible Pizza Parlor
+## Audrey Harmon
